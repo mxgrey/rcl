@@ -2,6 +2,14 @@
 Changelog for package rcl_yaml_param_parser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.6.0 (2022-12-05)
+------------------
+* [rolling] Update maintainers - 2022-11-07 (`#1017 <https://github.com/ros2/rcl/issues/1017>`_)
+* Contributors: Audrow Nash
+
+5.5.0 (2022-11-02)
+------------------
+
 5.4.1 (2022-09-13)
 ------------------
 
